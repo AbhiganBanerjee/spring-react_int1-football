@@ -1,0 +1,13 @@
+in\spring\documents\FootballTeams.class
+in\spring\SpringReactIntegrationProject1Application.class
+in\spring\config\SwaggerConfig.class
+in\spring\repo\FootballRepository.class
+in\spring\repo\RegUserRepository.class
+in\spring\service\RegUserServiceImpl.class
+in\spring\service\FootballService.class
+in\spring\rest\FootballRestController.class
+in\spring\documents\RegUser.class
+in\spring\service\RegUserService.class
+in\spring\rest\RegUserRestController.class
+in\spring\service\FootballServiceImpl.class
+in\spring\config\CorsConfig.class
