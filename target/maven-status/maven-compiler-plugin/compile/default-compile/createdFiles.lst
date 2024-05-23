@@ -1,5 +1,6 @@
 in\spring\documents\FootballTeams.class
 in\spring\SpringReactIntegrationProject1Application.class
+in\spring\filter\RefreshHeaderFilter.class
 in\spring\config\SwaggerConfig.class
 in\spring\repo\FootballRepository.class
 in\spring\repo\RegUserRepository.class
